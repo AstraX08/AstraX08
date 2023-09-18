@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AstraX08
 - 👀 I’m interested in ... machine learning, deep learning, computer vision and so on.....
-- 🌱 I’m currently learning ...in robotics/aautomation
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...in robotics/automation
+- 💞️ I’m looking to collaborate on Robotics navigation, SLAM-ROS based projects
 - 📫 How to reach me ...raunakkuwar72@gmail.com
 
 <!---
